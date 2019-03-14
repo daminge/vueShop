@@ -1,21 +1,8 @@
-# vue_shop
+Vue.js全家桶
+vueShop1.0
 
-> A Vue.js project
+1.先下载开启后台应用
 
-## Build Setup
+2.npm install
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+3.npm run dev
